@@ -1,0 +1,6 @@
+- !!com.data.City
+    id : id1
+    name : city1
+- !!com.data.City
+    id : id2
+    name : city2    

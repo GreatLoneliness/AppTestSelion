@@ -1,0 +1,6 @@
+- !!com.data.Student
+    id : id1
+    name : student1
+- !!com.data.Student
+    id : id2
+    name : student2    
